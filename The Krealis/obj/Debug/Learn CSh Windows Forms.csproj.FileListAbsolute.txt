@@ -1,0 +1,10 @@
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\bin\Debug\Learn CSh Windows Forms.exe.config
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\bin\Debug\Learn CSh Windows Forms.exe
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\bin\Debug\Learn CSh Windows Forms.pdb
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn CSh Windows Forms.csproj.AssemblyReference.cache
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn_CSh_Windows_Forms.Properties.Resources.resources
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn CSh Windows Forms.csproj.GenerateResource.cache
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn CSh Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn CSh Windows Forms.exe
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn CSh Windows Forms.pdb
+C:\Users\greze\Desktop\Y3\programming\C#\Learn CSh Windows Forms\Learn CSh Windows Forms\obj\Debug\Learn_CSh_Windows_Forms.Menu.resources
